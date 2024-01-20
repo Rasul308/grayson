@@ -140,6 +140,7 @@
     background: #41A28E;
     color: white;
 }
+
 @media (max-width:1000px) {
     .header__nav-box {
         flex-direction: column;
